@@ -29,7 +29,7 @@ const AboutPage: React.FC = () => {
             />
           </div>
           <div>
-            <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">Dr. Alex Network</h2>
+            <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">Prof.Arun Ghandat </h2>
             <div className="prose dark:prose-invert max-w-none">
               <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
                 With over 15 years of experience teaching computer networking, I've dedicated my career to making complex 

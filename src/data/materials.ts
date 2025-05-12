@@ -48,7 +48,7 @@ export const materials: Material[] = [
     level: 'beginner',
     type: 'slides',
     thumbnail: 'https://images.pexels.com/photos/7988079/pexels-photo-7988079.jpeg?auto=compress&cs=tinysrgb&w=600',
-    driveUrl: 'https://drive.google.com/file/d/example1',
+    driveUrl: 'https://drive.google.com/drive/folders/13J0W84qrK3OgqrpnYhnLVqMxRH8vI3gg',
     createdAt: '2025-01-15',
     updatedAt: '2025-01-15',
   },
